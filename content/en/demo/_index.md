@@ -1,5 +1,5 @@
 ---
-title: "Navidrome Demo"
+title: "ArS Demo"
 linkTitle: "Demo"
 menu:
   main:
@@ -7,7 +7,7 @@ menu:
 layout: docs
 ---
 
-{{< blocks/cover title="Navidrome Live Demo" image_anchor="bottom" color="primary" height="min" >}}
+{{< blocks/cover title="ArS Demo" image_anchor="bottom" color="primary" height="min" >}}
 
 <p class="lead mt-5">
   AAS (Archery Support System), is a system based on archery motion guidance and analysis. We utilize high-precision human body posture analysis to provide standardized guidance for archery motions.
@@ -17,29 +17,37 @@ layout: docs
 
 {{< blocks/section type="section" color="white">}}
 
-#### Want to try Navidrome before installing it? Not a problem!
+#### Want to try ArS before installing it? Not a problem!
 Just head to our [demo site](https://demo.navidrome.org) and enjoy some free music, courtesy of the fine folks from [Jamendo Music](https://jamendo.com), [Chillhop Music](https://chillhop.com), [Nine Inch Nails](https://www.nin.com/nine-inch-nails-ghosts-v-vi-available-now/), [NCS Music](https://www.ncsmusic.com/), [blocSonic](https://blocsonic.com/) and the respective artists.
 
-To login, use the following credentials:
+<br>
+<br>
+<br>
 
-* User: demo
-* Password: demo
+<p>
+	<br>
+    <!-- <img height="300" src="/gif/1.gif"> -->
+    <img height="400" src="/gif/2.gif">
+    <img height="400" src="/gif/3.gif">
+    <img height="400" src="/gif/4.gif">
+	<br>
+    <br>
+	<br>
 
-The demo server works with all [Subsonic clients](/docs/overview/#apps), just use the server address https://demo.navidrome.org with the credentials above. 
-Not all features are enabled in the demo. For instance, settings are disabled.
+</p>
 
-#### Demo server configuration
+<p>
+	<br>
+    <!-- <img height="300" src="/gif/1.gif"> -->
+    <img height="400" src="/gif/1.gif">
+    <img height="400" src="/gif/5.gif">
+    <img height="400" src="/gif/6.gif">
+	<br>
+    <br>
+	<br>
 
-The server is running on the inexpensive [PikaPods](https://www.pikapods.com/pods?run=navidrome) managed hosting with the following configuration:
-* 1 Core Processor
-* 512MB Memory
-* 10GB Disk Space
-* Approximate Cost: $2.27/month
+</p>
 
-[PikaPods](https://www.pikapods.com) has partnered with us to offer you an
-[officially supported, cloud-hosted solution](/docs/installation/managed/#pikapods).
-A share of the revenue helps fund the development of Navidrome at no additional cost for you.
 
-[![PikaPods](https://www.pikapods.com/static/run-button.svg)](https://www.pikapods.com/pods?run=navidrome)
 
 {{< /blocks/section >}}
